@@ -1,16 +1,7 @@
-import "./style/index.scss"
+import { render } from 'react-dom'
 
-const car = {
-    name: 'bmw',
-    year: 2020,
-    price: "$20000"
-}
+import App from "./components/App"
 
-const bmw = {
-    ...car,
-    wheel: "4"
-}
+render(<App />, document.getElementById("root"))
 
-console.log(car)
-console.log(bmw)
 
