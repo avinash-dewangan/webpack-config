@@ -4,4 +4,11 @@ const car = {
     price: "$20000"
 }
 
+const bmw = {
+    ...car,
+    wheel: "4"
+}
+
 console.log(car)
+console.log(bmw)
+
