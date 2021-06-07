@@ -34,3 +34,5 @@ npm i react react-dom
 
 npm i -D @babel/preset-react
 and setup babel
+
+## Asset and images
