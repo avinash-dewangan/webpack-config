@@ -1,3 +1,5 @@
+import "./style/index.scss"
+
 const car = {
     name: 'bmw',
     year: 2020,
