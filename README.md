@@ -27,3 +27,10 @@ npm i -D postcss postcss-preset-env postcss-loader
 ## browserslist
 
 setup the browser lower version supported prefix generated
+
+## Add react support setup
+
+npm i react react-dom
+
+npm i -D @babel/preset-react
+and setup babel
