@@ -36,3 +36,17 @@ npm i -D @babel/preset-react
 and setup babel
 
 ## Asset and images
+
+## Automated cleaning with clean-webpack-plugin \* html-webpack-plugin
+
+npm i -D html-webpack-plugin
+
+## clean webpack plugin
+
+npm i -D clean-webpack-plugin
+
+## React Refresg plugin
+
+npm install -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+
+edit babel file first
