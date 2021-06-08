@@ -11,7 +11,7 @@ function App() {
             <main>
                 <section>
                     <h1>Oh Hai, React</h1>
-                    <img src={hero} style={{ minHeight: "300px", width: "100%" }}></img>
+                    <img src={hero} style={{ height: "300px", width: "300px" }}></img>
                 </section>
             </main>
             <Recipes />
